@@ -1,1 +1,0 @@
-!upQueue.empty() &&

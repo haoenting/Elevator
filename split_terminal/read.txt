@@ -1,0 +1,6 @@
+分別用
+```
+g++ input.cpp -o input
+g++ output.cpp -o output
+```
+編譯以下檔案，再分別用不同終端機開./input、./output
